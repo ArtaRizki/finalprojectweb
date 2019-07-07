@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "localhost:3306";
 $username = "rootid9815401_root";
 $password = "12345678";
 $db_name = "id9815401_tokohapedia";
